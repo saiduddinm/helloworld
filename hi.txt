@@ -1,3 +1,5 @@
 second draft is a great way to start after your first draft
 
 DETACHED HEAD ERROR ERROR COMMIT
+
+changes have been made to hi dot text
